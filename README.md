@@ -39,6 +39,7 @@ These MCP servers connect AI models directly to blockchain networks, enabling ac
 - **[deBridge MCP](https://github.com/debridge-finance/debridge-mcp)** – Enables AI agents to find optimal **cross-chain swap routes**, check fees, and initiate non-custodial trades across Ethereum, Solana, Arbitrum, Base, BNB Chain, Polygon, Optimism, Avalanche, Linea, Berachain, Tron, Cronos, Gnosis, Monad, Sonic, Flow, HyperEVM, Sei, Story, Injective, Abstract, MegaETH, Mantle, Plasma, Zilliqa, Sophon, Bob, Neon, and other chains.
 - **[Arcadia Finance](https://github.com/arcadia-finance/mcp-server)** - Manage concentrated liquidity positions with leverage, automated rebalancing, and yield optimization on Base and Optimism.
 - **[WAIaaS](https://github.com/minhoyoo-iotrust/WAIaaS)** – Self-hosted wallet daemon for AI agents. **59+ MCP tools** for wallet management, DeFi (swap/lend/stake/bridge/perp), NFT, and x402 payments across **EVM + Solana**. Default-deny policy engine, spending limits, human approval, kill switch. Keys never leave the daemon.
+- **[MAIN MCP](https://github.com/asdener123/MAIN-MCP-Server)** – Hosted **DeFi execution MCP server on Base** for AI agents. Supports token and pool discovery, swaps, liquidity management, strategy execution, transaction broadcasting, and selected x402-paid actions such as pool creation and token launch.
 ---
 
 ## 📊 Blockchain Data
